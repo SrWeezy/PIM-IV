@@ -259,3 +259,4 @@ D:\Faculdade\PIMIV-main\obj\Debug\net8.0\PIMIV.pdb
 D:\Faculdade\PIMIV-main\obj\Debug\net8.0\PIMIV.genruntimeconfig.cache
 D:\Faculdade\PIMIV-main\obj\Debug\net8.0\ref\PIMIV.dll
 D:\Faculdade\PIMIV-main\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Faculdade\PIMIV-main\obj\Debug\net8.0\PIMIV.sourcelink.json
